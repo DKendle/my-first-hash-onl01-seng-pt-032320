@@ -1,5 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  kindergarden = {"table"=>"4","Crayons" =>"10","chalkboards"=>"10"}# use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
 end
